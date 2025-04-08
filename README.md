@@ -8,7 +8,7 @@
 
 </div>
 
-Un generador de contraseñas seguras y personalizables. Este es el proyecto #3 de mi desafío personal de [100 días de JavaScript](https://github.com/ChavezMedia/100-DIAS-DE-JS).
+Un generador de contraseñas seguras y personalizables. Este es el proyecto #3 de mi desafío personal de [100 días de JavaScript](https://github.com/gianmattus-programmer/100-DIAS-DE-JS).
 
 <details>
 <summary>✨ Características</summary>
@@ -24,7 +24,7 @@ Un generador de contraseñas seguras y personalizables. Este es el proyecto #3 d
 
 ## 🚀 Demo en vivo
 
-[¡Prueba el generador aquí!](https://pass-generator-chavezmedia.vercel.app) 
+[¡Prueba el generador aquí!](https://pass-generator-gianmattus-programmers-projects.vercel.app/) 
 
 ![Screenshot](screenshot.png)
 
